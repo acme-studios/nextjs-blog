@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Popular bots explicitly listed (optional, all allowed anyway)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+Sitemap: https://blog.acme-studios.org/sitemap.xml
