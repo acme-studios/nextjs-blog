@@ -17,4 +17,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-Sitemap: https://blog.acme-studios.org/sitemap.xml
+Sitemap: https://blog.namer01.cfpartnerskyflash.com/sitemap.xml
