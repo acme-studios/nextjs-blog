@@ -17,4 +17,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-Sitemap: https://blog.namer01.cfpartnerskyflash.com/sitemap.xml
+Sitemap: https://blog.emea01.cfpartnerskyflash.com/sitemap.xml
