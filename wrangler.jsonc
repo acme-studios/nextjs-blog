@@ -8,6 +8,7 @@
 		"directory": ".open-next/assets",
 		"binding": "ASSETS"
 	},
+  "account_id": "57aa14dc6cb0b9336c2980dce332a7aa",
   "placement": {"mode": "smart"},
   "observability": {
     "logs": {

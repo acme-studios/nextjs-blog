@@ -1,11 +1,23 @@
 User-agent: *
 Allow: /
 
-# Popular bots explicitly listed (optional, all allowed anyway)
+# Major Search Engines
 User-agent: Googlebot
 Allow: /
 
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
 User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: msnbot
 Allow: /
 
 User-agent: DuckDuckBot
@@ -15,6 +27,172 @@ User-agent: Baiduspider
 Allow: /
 
 User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+# Social Media Crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: redditbot
+Allow: /
+
+# AI and LLM Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# SEO and Analytics Tools
+User-agent: Applebot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: DotBot
+Allow: /
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+User-agent: SEMrushBot
+Allow: /
+
+User-agent: rogerbot
+Allow: /
+
+User-agent: MojeekBot
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: Seekport Crawler
+Allow: /
+
+# Archive and Research Crawlers
+User-agent: ia_archiver
+Allow: /
+
+User-agent: archive.org_bot
+Allow: /
+
+User-agent: Wayback Machine
+Allow: /
+
+User-agent: ArchiveBot
+Allow: /
+
+# News Aggregators
+User-agent: Slurp
+Allow: /
+
+User-agent: Yahoo! Slurp
+Allow: /
+
+User-agent: Feedfetcher-Google
+Allow: /
+
+User-agent: Feedspot
+Allow: /
+
+User-agent: Feedly
+Allow: /
+
+# E-commerce and Shopping
+User-agent: Shopify-Partner
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Other Notable Crawlers
+User-agent: Qwantify
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: archive.org_bot
+Allow: /
+
+User-agent: Cliqzbot
+Allow: /
+
+User-agent: Neevabot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: BraveBot
 Allow: /
 
 Sitemap: https://blog.namer01.cfpartnerskyflash.com/sitemap.xml
